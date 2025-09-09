@@ -26,3 +26,4 @@
 ### - If the contour area is big enough (to avoid false detection), it means motion detected.
 ## 9. Draw Bounding Boxes
 ### - Around detected moving objects, you can draw rectangles using `cv2.rectangle()`.
+---
